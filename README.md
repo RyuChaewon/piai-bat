@@ -1,4 +1,4 @@
-# C2 Battery Defect Analysis
+# Battery Defect Analysis
 
 2차전지 제조 공정 데이터를 활용한 불량 분석 프로젝트입니다. 원천 데이터, 전처리 데이터, 분석 노트북, 과제 가이드를 하나의 저장소에서 추적할 수 있도록 정리했습니다.
 
