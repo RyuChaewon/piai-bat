@@ -1,6 +1,6 @@
 # Battery Defect Analysis
 
-2차전지 제조 공정 데이터를 활용한 불량 분석 프로젝트입니다. 원천 데이터, 전처리 데이터, 분석 노트북, 과제 가이드를 하나의 저장소에서 추적할 수 있도록 정리했습니다.
+배터리 제조 공정 데이터를 활용한 불량 분석 프로젝트입니다. 원천 데이터, 전처리 데이터, 분석 노트북, 과제 가이드를 하나의 저장소에서 추적할 수 있도록 정리했습니다.
 
 ## Repository Layout
 
@@ -24,8 +24,8 @@
 
 ## Notebooks
 
-- `notebooks/c2_류채원_작성코드 (1).ipynb`: 결측치 및 주요 변수 탐색 중심 분석
-- `notebooks/c2_류채원_작성코드 (2).ipynb`: 공정별 유의차/분류 분석 중심 코드
+- `notebooks/battery_analysis_eda.ipynb`: 결측치 및 주요 변수 탐색 중심 분석
+- `notebooks/battery_analysis_modeling.ipynb`: 공정별 유의차/분류 분석 중심 코드
 - `notebooks/설비유의차.ipynb`: 설비 유의차 검토용 노트북
 - `notebooks/test.ipynb`, `notebooks/test2.ipynb`: 실험 및 초안 노트북
 
@@ -38,3 +38,4 @@ pip install -r requirements.txt
 ```
 
 노트북은 `notebooks/` 폴더에서 실행하는 기준으로 데이터 경로가 `../data/...` 상대경로를 사용하도록 정리했습니다.
+

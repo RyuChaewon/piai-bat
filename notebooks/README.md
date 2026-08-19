@@ -8,3 +8,9 @@
 - `../data/processed/bat_tat.csv`
 
 `test.ipynb`와 `test2.ipynb`는 실험/초안 성격으로 보존했습니다.
+
+## Main Analysis Notebooks
+
+- `battery_analysis_eda.ipynb`: exploratory analysis and missing-value review
+- `battery_analysis_modeling.ipynb`: significance checks and modeling analysis
+
